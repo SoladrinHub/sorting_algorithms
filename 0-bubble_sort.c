@@ -1,4 +1,4 @@
-#include "sorter.h"
+#include "sort.h"
 void swap(int *first, int *second);
 
 /**
