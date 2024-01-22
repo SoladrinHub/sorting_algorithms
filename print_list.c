@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include "sort.h"
+#include "sorter.h"
 
 /**
  * print_list - Prints a list of integers
