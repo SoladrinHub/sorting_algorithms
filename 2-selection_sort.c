@@ -10,7 +10,7 @@ void swap(int *first, int *second);
 
 void selection_sort(int *array, size_t size)
 {
-	size_t i,j, min_idx;
+	size_t i, j, min_idx;
 
 	if (array == NULL || size <= 1)
 		return;
@@ -45,4 +45,3 @@ void swap(int *first, int *second)
 	*first = *second;
 	*second = sw;
 }
-
